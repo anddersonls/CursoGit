@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 # Titulo
-=======
-#Titulo 
->>>>>>> parent of 2281954 (adicionando imagem ao readme)
 
-![./imagem.png](imagem exemplo)
+![imagem exemplo](./imagem.png)
 
 Este repositário serve para treinar os comandos de git
